@@ -3,7 +3,7 @@
 ## Platform&Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![](https://img.shields.io/badge/Windows-10-00a2ed?style=flat-square&logo=windows&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Windows-00a2ed?style=flat-square&logo=windows&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
